@@ -1,0 +1,62 @@
+{
+    "1": {
+        "year": 2006,
+        "month": "Apr",
+        "price_m2": 4581.02
+    },
+    "2": {
+        "year": 2006,
+        "month": "May",
+        "price_m2": 4603.03
+    },
+    "3": {
+        "year": 2006,
+        "month": "Juny",
+        "price_m2": 4670.09
+    },
+    "4": {
+        "year": 2006,
+        "month": "July",
+        "price_m2": 4637.59
+    },
+    "5": {
+        "year": 2006,
+        "month": "August",
+        "price_m2": 4688.22
+    },
+    "6": {
+        "year": 2006,
+        "month": "September",
+        "price_m2": 4625.02
+    },
+    "7": {
+        "year": 2006,
+        "month": "October",
+        "price_m2": 4829.99
+    },
+    "8": {
+        "year": 2006,
+        "month": "November",
+        "price_m2": 4988.50
+    },
+    "9": {
+        "year": 2006,
+        "month": "December",
+        "price_m2": 5053.67
+    },
+    "10": {
+        "year": 2007,
+        "month": "January",
+        "price_m2": 5131.11
+    },
+    "11": {
+        "year": 2007,
+        "month": "February",
+        "price_m2": 5299.02
+    },
+    "12": {
+        "year": 2007,
+        "month": "March",
+        "price_m2": 5503.44
+    }
+}
